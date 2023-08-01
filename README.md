@@ -1,5 +1,5 @@
 # Mars Rover API
-Curious about what photos have been taken on Mars recently? Check out this API that shows you all photos taken by the Curiosity Rover on Mars!
+Immerse yourself in stunning imagery, as this project unveils the mesmerizing landscapes and breathtaking vistas of the Red Planet, providing a unique window into the wonders of our neighboring world.
 
 Link to project: https://redscapes.netlify.app
 
